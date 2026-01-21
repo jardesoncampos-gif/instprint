@@ -1,0 +1,7 @@
+{
+  "name": "Copy of InstaPrint - Filter & Print",
+  "description": "A high-end mobile-first application to capture photos, apply professional filters, and print them instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
